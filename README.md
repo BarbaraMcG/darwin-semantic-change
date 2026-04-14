@@ -18,3 +18,9 @@ pip install numpy==1.24.4
 pip install spacy==3.5.4 gensim==4.3.0 smart-open==6.3.0 pathy==0.11.0 scikit-learn==1.2.2 matplotlib lxml seaborn statsmodels
 
 jupyter notebook
+
+# Main code
+
+Semantic_change_Darwin_BMcG_Latest.ipynb calculates semantic change scores using static embeddings.
+
+Semantic_change_Darwin_BERT.ipynb calculates semantic change scores using BERT embeddings.
