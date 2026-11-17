@@ -24,3 +24,5 @@ jupyter notebook
 Semantic_change_Darwin_BMcG_Latest.ipynb calculates semantic change scores using static embeddings.
 
 Semantic_change_Darwin_BERT.ipynb calculates semantic change scores using BERT embeddings.
+
+letters_to_publications/ contains the pipeline that matches Darwin's letters to his published works using a fine-tuned Mistral-7B model converted into an encoder with LLM2Vec (Section 7 of the paper, code by Sean Lyons). See letters_to_publications/README.md for the stages, data and setup.
