@@ -1,0 +1,51 @@
+{
+  "analysis_date": "2025-10-06T21:30:58.554284",
+  "total_matches": 516014,
+  "high_confidence_matches": 269782,
+  "publications_analyzed": 12,
+  "unique_letters_matched": 5524,
+  "letters_before_pub_pct": 0.7527857771300779,
+  "average_similarity": 0.748518678744721,
+  "average_temporal_gap": 6.5121217641381826,
+  "confidence_distribution": {
+    "high": 269782,
+    "moderate": 236659,
+    "low": 9573
+  },
+  "best_publications": [
+    {
+      "publication": "FormsFlowers",
+      "letters_before_pub_pct": 0.918200408997955
+    },
+    {
+      "publication": "Movement",
+      "letters_before_pub_pct": 0.8607075557716856
+    },
+    {
+      "publication": "Erasmus",
+      "letters_before_pub_pct": 0.8437924865831843
+    },
+    {
+      "publication": "Insectivorous",
+      "letters_before_pub_pct": 0.793189325677522
+    },
+    {
+      "publication": "Fertilisation",
+      "letters_before_pub_pct": 0.7923182075817691
+    }
+  ],
+  "needs_improvement": [
+    {
+      "publication": "Journal",
+      "letters_before_pub_pct": 0.6444905713481565
+    },
+    {
+      "publication": "Cirripedia",
+      "letters_before_pub_pct": 0.532647440051847
+    },
+    {
+      "publication": "Origin",
+      "letters_before_pub_pct": 0.5194398927454194
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "total_matches": 516014,
+  "publications_analyzed": 12,
+  "unique_letters": 5524,
+  "date_range": {
+    "earliest_letter": 1822,
+    "latest_letter": 1882,
+    "earliest_pub": 1839,
+    "latest_pub": 1880
+  },
+  "quality_metrics": {
+    "avg_similarity": 0.748518678744721,
+    "median_similarity": 0.7529968619346619,
+    "temporal_coherence": 0.7527857771300779
+  },
+  "publication_stats": {
+    "Orchids": {
+      "total_matches": 56816,
+      "avg_similarity": 0.8044621853225544,
+      "before_pub_pct": 66.01133483525767
+    },
+    "Descent": {
+      "total_matches": 76141,
+      "avg_similarity": 0.724468428495513,
+      "before_pub_pct": 63.04487726717537
+    },
+    "Fertilisation": {
+      "total_matches": 59986,
+      "avg_similarity": 0.7295405515420395,
+      "before_pub_pct": 74.93915246890941
+    },
+    "Insectivorous": {
+      "total_matches": 57821,
+      "avg_similarity": 0.765026332409618,
+      "before_pub_pct": 75.40685909963508
+    },
+    "Expression": {
+      "total_matches": 38160,
+      "avg_similarity": 0.7305829464295875,
+      "before_pub_pct": 64.16666666666667
+    },
+    "Cirripedia": {
+      "total_matches": 12344,
+      "avg_similarity": 0.7219372325282899,
+      "before_pub_pct": 47.294232015554115
+    },
+    "Movement": {
+      "total_matches": 65804,
+      "avg_similarity": 0.7422919712992876,
+      "before_pub_pct": 79.54379672968209
+    },
+    "Journal": {
+      "total_matches": 28424,
+      "avg_similarity": 0.729908043302149,
+      "before_pub_pct": 62.03208556149733
+    },
+    "Climbing": {
+      "total_matches": 63760,
+      "avg_similarity": 0.781965202856879,
+      "before_pub_pct": 75.63989962358846
+    },
+    "Origin": {
+      "total_matches": 26852,
+      "avg_similarity": 0.7288605746119864,
+      "before_pub_pct": 44.14568747206912
+    },
+    "FormsFlowers": {
+      "total_matches": 1956,
+      "avg_similarity": 0.7275662914162278,
+      "before_pub_pct": 91.15541922290389
+    },
+    "Erasmus": {
+      "total_matches": 27950,
+      "avg_similarity": 0.7207629903911051,
+      "before_pub_pct": 78.27906976744185
+    }
+  }
+}
